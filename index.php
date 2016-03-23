@@ -1,3 +1,5 @@
+<?php
+echo '
 <html>
 <head>
 <title>Online Geek Test-Check your Geekiness</title>
@@ -17,4 +19,5 @@
     </label>    
 </form>
 </body>
-</html>
+</html>';
+?>
