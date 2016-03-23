@@ -1,0 +1,194 @@
+What term describes hardware and software designed to help people with disabilities?
+
+A	Computer aided development
+33.6%
+B	Assistive technology
+45%
+C	Electronic learning products
+7.4%
+D	Specialized support
+14%
+Incorrect! The correct answer is "Assistive technology."
+View the related definition: Assistive Technology
+
+What is the process of simultaneously recording and compressing audio called?
+
+A	Ripcording
+40.6%
+B	Audio filtering
+26%
+C	Signal processing
+14.2%
+D	Encapsulating
+19.3%
+Incorrect! The correct answer is "Ripcording."
+View the related definition: Ripcording
+
+What does a keylogger log?
+
+A	Failed authentication attempts
+14.6%
+B	System logins
+24.3%
+C	Keystrokes
+57.5%
+D	Crashes
+3.5%
+Correct! Nice job! You answered correctly.
+View the related definition: Keylogger
+
+Pressing a single key on your keyboard is also called what?
+
+A	Keyframe
+7.6%
+B	Keystroke
+80.7%
+C	Keystone
+5.9%
+D	Keyport
+5.9%
+Correct! Nice job! You answered correctly.
+View the related definition: Keystroke
+
+LTE is a subset of what cellular data standard?
+
+A	1G
+7%
+B	2G
+12.3%
+C	3G
+24.2%
+D	4G
+56.4%
+Incorrect! The correct answer is "4G."
+View the related definition: 4G
+
+The verb "bounce" describes all the following actions besides what?
+
+A	Rejecting an email
+34.8%
+B	Restarting a computer
+22%
+C	Exporting audio
+21.7%
+D	Reformatting a hard disk
+21.5%
+Incorrect! The correct answer is "Reformatting a hard disk."
+View the related definition: Bounce
+
+What IP address is automatically assigned to "localhost?"
+
+A	127.0.0.1
+31.3%
+B	192.168.0.1
+48.5%
+C	169.127.225.1
+14.4%
+D	123.123.0.1
+5.9%
+Incorrect! The correct answer is "127.0.0.1."
+View the related definition: Localhost
+
+What type of cable sends data via pulses of light?
+
+A	Coaxial
+10.6%
+B	Fiber Optic
+77.8%
+C	Firewire
+8.8%
+D	CAT5E
+2.9%
+Correct! Nice job! You answered correctly.
+View the related definition: Fiber Optic Cable
+
+Which of the following best describes a "digital footprint?"
+
+A	The trail of data you create while using the Internet.
+59.6%
+B	The files software leaves on your computer after you uninstall it.
+29.1%
+C	The number of electronic devices you own.
+7.9%
+D	The amount of electricity you use
+3.4%
+Incorrect! The correct answer is "The trail of data you create while using the Internet."
+View the related definition: Digital Footprint
+
+A group of storage devices accessible over a network is called a what?
+
+A	LAN
+37.1%
+B	WAN
+19.1%
+C	FAN
+6.4%
+D	SAN
+37.5%
+Incorrect! You can only answer each quiz question once.
+View the related definition: SAN
+
+A "shell" is a short name for what type of user interface?
+
+A	Graphical User Interface
+25.8%
+B	Command-Line Interface
+49.9%
+C	Touchscreen Interface
+13.6%
+D	Motion Sensor Interface
+10.7%
+Incorrect! The correct answer is "Command-Line Interface."
+View the related definition: Shell
+
+A company that provides Internet access to a large number of users is called what?
+
+A	Web Host
+14.8%
+B	Web Server
+22%
+C	Access Point
+3.2%
+D	ISP
+59.9%
+Correct! You can only answer each quiz question once.
+View the related definition: ISP
+
+A window that pops up with a warning for the user is also called what?
+
+A	Safety Box
+3%
+B	Alert Box
+57.3%
+C	Warning Box
+31.4%
+D	Attention Box
+8.3%
+Correct! Nice job! You answered correctly.
+View the related definition: Alert Box
+
+What is the process of converting data from one form to another called?
+
+A	Transforming
+29.6%
+B	Porting
+8.9%
+C	Morphing
+13.1%
+D	Encoding
+48.3%
+Correct! Nice job! You answered correctly.
+View the related definition: Encoding
+
+Which of the following is not a type of font case?
+
+A	Uppercase
+12.7%
+B	Toggle case
+21%
+C	Camel case
+39.5%
+D	Markup case
+26.9%
+Incorrect! You can only answer each quiz question once.
+View the related definition: Font Case

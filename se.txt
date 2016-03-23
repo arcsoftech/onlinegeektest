@@ -1,0 +1,259 @@
+
+
+se
+
+Which of the following statements best describes a user interface?
+
+A	It is a hardware port that handles input and output.
+16.6%
+B	It provides control of a software application or hardware device.
+45.5%
+C	It is the experience created by a software program.
+23.3%
+D	It consists of a username and password.
+14.6%
+answer:b
+Which of the following is not considered a document?
+
+A	Application
+63.5%
+B	Text file
+9.2%
+C	Video
+21.8%
+D	Image
+5.5%
+
+answer:a
+
+How many bits are in a gigabyte?
+
+A	One million
+43.1%
+B	Eight billion
+37.9%
+C	Sixteen trillion
+10.3%
+D	Sixty-four trillion
+8.8%
+
+answer:b
+
+What Microsoft product is a type of DBMS?
+
+A	Word
+14.7%
+B	PowerPoint
+15.2%
+C	Excel
+21.3%
+D	Access
+48.8%
+answer:d
+What type of job may involve fixing syntax errors?
+
+A	Software development
+77.7%
+B	Graphic design
+6.9%
+C	Video editing
+4.8%
+D	Content production
+10.7%
+answer:a
+Which of the following statements about BitTorrent is false?
+
+A	It is peer-to-peer (P2P) file sharing protocol.
+12.7%
+B	It was designed as a replacement for the HTTP protocol.
+54.3%
+C	It allows users to download single files from multiple server at one time.
+19.2%
+D	It supports resuming downloads that have been paused or stopped.
+13.7%
+answer:b
+What image format supports animations?
+
+A	JPEG
+18.3%
+B	GIF
+61%
+C	PNG
+13.4%
+D	BMP
+7.4%
+answer:b
+Correct! You can only answer each quiz question once.
+View the related definition: Animated GIF
+
+Which of the following might be described as LIFO?
+
+A	Linked list
+14.8%
+B	Queue
+13.4%
+C	Heap
+12.6%
+D	Stack
+59.2%
+Correct! Nice job! You answered correctly.
+View the related definition: LIFO
+What is the technical name of a character with all its bits set to zero?
+
+A	Empty set
+19.4%
+B	Zero sum
+19.3%
+C	Null character
+52.4%
+D	Blank string
+8.8%
+Correct! Nice job! You answered correctly.
+View the related definition: Null Character
+
+What technology is used to make energy efficient lightbulbs?
+
+A	LCD
+9.2%
+B	LED
+68.6%
+C	LTE
+4%
+D	LAMP
+18.3%
+Correct! Nice job! You answered correctly.
+View the related definition: LED
+
+What command is most similar to "Save As..."?
+
+A	Import
+35.3%
+B	Export
+40.1%
+C	Paste
+22.9%
+D	Maximize
+1.7%
+Incorrect! The correct answer is "Export."
+View the related definition: Export
+
+Q8.First company to invent mobile phone?
+
+A) Nokia
+
+B) Samsung
+
+C) Motorola
+
+D) Apple
+ans c
+
+Q3.Recerntly discovered security bug that can breach security of android  devices?
+
+A)HeartBleed
+
+B) BlackHole
+
+C) BashBug
+
+D) Stagefright
+and
+What is another name for a step-by-step instructional guide?
+
+A	Template
+5.6%
+B	Tutorial
+80.4%
+C	Installer
+9%
+D	Debugger
+5.1%
+Incorrect! The correct answer is "Tutorial."
+View the related definition: Tutorial
+
+Q2.Runtime used in Android L?
+
+A) Dalvik
+
+B) ART
+
+C) GCC
+
+D) JRE
+ans art
+
+Q6.UNIX OS was developed by?
+
+A) Steve Jobs
+
+B) Bill Gates
+
+C) Mark Zuckerberg
+
+D) Dennis Ritchie
+
+ans d
+What is the name of the built-in Windows utility that displays all active processes?
+
+A	Task Bar
+26.1%
+B	Task Manager
+66.5%
+C	Task Helper
+2.8%
+D	Task View
+4.6%
+Correct! Nice job! You answered correctly.
+View the related definition: Process
+
+What is the code that is compiled into an executable program called?
+
+A	App code
+12.2%
+B	Byte code
+11.6%
+C	Source code
+71.2%
+D	Dev code
+5%
+Correct! Nice job! You answered correctly.
+View the related definition: Source Code
+
+Which of the following statements about printed circuit boards is not true?
+
+A	They may contain integrated circuits.
+16%
+B	They are used in laptops.
+9.7%
+C	They are found in desktop computers.
+9.3%
+D	They are all made of the same material.
+65%
+Incorrect! You can only answer each quiz question once.
+View the related definition: PCB
+
+How many numbers are supported by the binary system?
+
+A	1
+5.6%
+B	2
+75.5%
+C	8
+13.3%
+D	10
+5.6%
+Correct! Nice job! You answered correctly.
+View the related definition: Binary
+
+Whis the smartphone that have proprietry OS as Oxygen OS?
+A)Oneplus two
+B)HTC M8
+C)Xiomi Mi4
+D)Asus Zenfone 2
+
+Which of the following symbols preceeds a Twitter hashtag?
+
+A	+
+B	@
+C	#
+D	&

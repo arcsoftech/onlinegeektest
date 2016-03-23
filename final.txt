@@ -1,0 +1,170 @@
+final
+
+
+
+What is a zero day exploit?
+
+A	It is a virus that is placed in preinstalled software.
+20.4%
+B	It is malware that activates once a timer has counted down to zero.
+34.7%
+C	It is a worm that affects over a million computers the first day.
+17.6%
+D	It is an attack that takes advantage of an unknown security hole.
+27.3%
+Incorrect! The correct answer is "It is an attack that takes advantage of an unknown security hole."
+View the related definition: Zero Day Exploit
+
+What protocol might make use of SIP trunking?
+
+A	VoIP
+42%
+B	HTTP
+27.2%
+C	ARP
+14.1%
+D	SOAP
+16.8%
+Incorrect! The correct answer is "VoIP."
+View the related definition: SIP
+
+What type of malware gains administrator access without being detected?
+
+A	Scareware
+10.1%
+B	Trojan horse
+49.4%
+C	Rootkit
+25.9%
+D	Worm
+14.5%
+Correct! Nice job! You answered correctly.
+View the related definition: Rootkit
+
+What is a selected cell in a spreadsheet called?
+
+A	Current cell
+27.3%
+B	Active cell
+59.3%
+C	Live cell
+9%
+D	Trigger cell
+4.4%
+Incorrect! The correct answer is "Active cell."
+View the related definition: Active Cell
+Which of the following acronyms describes a type of optical media?
+
+A	WORM
+30.9%
+B	BSOD
+21.6%
+C	JSON
+14.3%
+D	OLAP
+33.2%
+Incorrect! The correct answer is "WORM."
+View the related definition: Worm
+
+What company developed the PostScript language?
+
+A	Apple
+16.2%
+B	Corel
+19.1%
+C	Adobe
+38.1%
+D	Microsoft
+26.6%
+Incorrect! The correct answer is "Adobe."
+View the related definition: PostScript
+
+What is text that supports formatting and different fonts called?
+
+A	Flex Text
+7.8%
+B	Rich Text
+56.3%
+C	Custom Text
+32.8%
+D	Super Text
+3.1%
+Incorrect! The correct answer is "Rich Text."
+View the related definition: Rich Text
+
+A golden master, or "GM," refers to what type of product?
+
+A	CPU
+10.7%
+B	Motherboard
+18.8%
+C	Software Program
+58.5%
+D	Firewall
+12%
+Incorrect! The correct answer is "Software Program."
+View the related definition: Golden Master
+
+When is a POST test run?
+
+A	Before a system is turned on
+17.3%
+B	Immediately after a system is turned on
+60.6%
+C	When a system is sleeping
+8.2%
+D	While a system is shutting down
+13.9%
+Correct! Nice job! You answered correctly.
+View the related definition: POST
+
+What does it mean if a function is deprecated?
+
+A	It has been replaced by a newer one
+35.7%
+B	It produces unreliable output
+24.7%
+C	It is nested within another function
+19%
+D	It has run out of memory
+20.6%
+Incorrect! The correct answer is "It has been replaced by a newer one."
+View the related definition: Deprecated
+Which of the following resolutions is considered 4K?
+
+A	1920x1080
+18.8%
+B	3840x2160
+40%
+C	5760x3240
+18.8%
+D	7680x4320
+22.4%
+Incorrect! The correct answer is "3840x2160."
+View the related definition: 4K
+
+What is the distinguishing characteristic of a retina display?
+
+A	3D video support
+12.5%
+B	High resolution
+49.3%
+C	Reduced eye fatigue
+28.2%
+D	A built-in camera
+9.9%
+Incorrect! The correct answer is "High resolution."
+View the related definition: Retina Display
+Which of the following units of measurement is the largest?
+
+A	Exbibyte
+29.6%
+B	Pebibyte
+15.2%
+C	Gibibyte
+16.2%
+D	Tebibyte
+39.1%
+Correct! Nice job! You answered correctly.
+View the related definition: Exbibyte
+Ans D

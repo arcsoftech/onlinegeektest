@@ -1,0 +1,270 @@
+te
+Which of the following statements about BitTorrent is false?
+
+A	It is peer-to-peer (P2P) file sharing protocol.
+12.7%
+B	It was designed as a replacement for the HTTP protocol.
+54.3%
+C	It allows users to download single files from multiple server at one time.
+19.2%
+D	It supports resuming downloads that have been paused or stopped.
+13.7%
+answer:b
+Which of the following is not a valid country domain suffix?
+
+A	.ca
+11.9%
+B	.ch
+18.1%
+C	.cx
+55.1%
+D	.cz
+14.9%
+Correct! You can only answer each quiz question once.
+View the related definition: Domain Suffix
+
+Which of the following formats supports the least number of colors in a single image?
+
+A	GIF
+26.2%
+B	JPEG
+26.6%
+C	JPEG 2000
+12.2%
+D	PNG-24
+35.1%
+Incorrect! The correct answer is "GIF."
+View the related definition: GIF
+
+What is the technical name of a character with all its bits set to zero?
+
+A	Empty set
+19.4%
+B	Zero sum
+19.3%
+C	Null character
+52.4%
+D	Blank string
+8.8%
+Correct! Nice job! You answered correctly.
+View the related definition: Null Character
+
+What technology is used to make energy efficient lightbulbs?
+
+A	LCD
+9.2%
+B	LED
+68.6%
+C	LTE
+4%
+D	LAMP
+18.3%
+Correct! Nice job! You answered correctly.
+View the related definition: LED
+
+What command is most similar to "Save As..."?
+
+A	Import
+35.3%
+B	Export
+40.1%
+C	Paste
+22.9%
+D	Maximize
+1.7%
+Incorrect! The correct answer is "Export."
+View the related definition: Export
+Which of the following raster image formats is uncompressed?
+
+A	JPEG
+28.6%
+B	BMP
+36%
+C	GIF
+16.9%
+D	PNG
+18.5%
+Correct! Nice job! You answered correctly.
+View the related definition: bmp
+
+What is another name for a step-by-step instructional guide?
+
+A	Template
+5.6%
+B	Tutorial
+80.4%
+C	Installer
+9%
+D	Debugger
+5.1%
+Incorrect! The correct answer is "Tutorial."
+View the related definition: Tutorial
+
+What is the series of processes that a computer goes through at startup called?
+
+A	Boot Sequence
+85.8%
+B	Load Process
+8%
+C	System Cache
+4%
+D	Software Restore
+2.2%
+Correct! Nice job! You answered correctly.
+View the related definition: Boot Sequence
+
+What is the name of the built-in Windows utility that displays all active processes?
+
+A	Task Bar
+26.1%
+B	Task Manager
+66.5%
+C	Task Helper
+2.8%
+D	Task View
+4.6%
+Correct! Nice job! You answered correctly.
+View the related definition: Process
+
+What type of code is not processed by a Web browser?
+
+A	HTML
+8.5%
+B	XHTML
+23.8%
+C	PHP
+47.2%
+D	JavaScript
+20.5%
+Correct! Nice job! You answered correctly.
+View the related definition: Browser
+
+What is the difference between a plain text file and a rich text file?
+
+A	Rich text files may contain formatted text while plain text files do not.
+47%
+B	Rich text files may contain animated text, while plain text files do not.
+23.6%
+C	Rich text files are copy-protected while plain text files are not.
+16.5%
+D	Rich text files are cross-platform, while plain text files are not.
+12.8%
+Correct! Nice job! You answered correctly.
+View the related definition: RTF
+Which of the following does Microsoft's Surface tablet not include?
+
+A	A touchscreen
+4.2%
+B	A kickstand
+29%
+C	A proprietary keyboard connector
+20.8%
+D	A Lightning port
+46%
+Correct! Nice job! You answered correctly.
+View the related definition: Surface
+Which of the following is a client-side scripting language?
+
+A	Ruby
+7.8%
+B	JavaScript
+71.3%
+C	PHP
+14.6%
+D	Perl
+6.3%
+Correct! Nice job! You answered correctly.
+View the related definition: JavaScript
+http://techterms.com/quiz/2013/10/14
+
+IBM is a well known computer and information technology company, what does IBM stand for
+A)Input Batch Machines
+B)International Backup monitoring
+C International Business Machines
+D)Interconnected background Machines
+
+Ans C
+Did the Apple iPhone first become available in ?
+A)2005
+B)2006
+c)2007
+d)2010
+
+Ans:c
+Which of the following interfaces supports the fastest transfer rates?
+
+A	FireWire
+15.1%
+B	USB 3.0
+28.7%
+C	Thunderbolt
+24.8%
+D	Gigabit Ethernet
+31.4%
+Incorrect! The correct answer is "Thunderbolt."
+View the related definition: Thunderbolt
+
+What company originally developed Flash?
+
+A	Microsoft
+27.9%
+B	Corel
+10.5%
+C	Symantec
+9.3%
+D	Macromedia
+52.3%
+Incorrect! The correct answer is "Macromedia."
+View the related definition: Flash
+
+What is the smallest unit of data that can be accessed on a hard disk called?
+
+A	Bit
+57.3%
+B	Byte
+26%
+C	Partition
+4.5%
+D	Sector
+12.3%
+Incorrect! The correct answer is "Sector."
+View the related definition: Sector
+
+Service pack updates are common for what operating system?
+
+A	Mac OS X
+7.9%
+B	iOS
+5%
+C	Linux
+11.7%
+D	Windows
+75.4%
+Correct! Nice job! You answered correctly.
+View the related definition: Service Pack
+
+Which of the following devices may be considered a dongle?
+
+A	HDMI Cable
+16.8%
+B	External Hard Drive
+20.9%
+C	Secondary Monitor
+11.8%
+D	USB Security Key
+50.5%
+Correct! Nice job! You answered correctly.
+View the related definition: Dongle
+
+A dot matrix printer is an example of what type of printer?
+
+A	Inkjet Printer
+29.5%
+B	Laser Printer
+19%
+C	Impact Printer
+41.7%
+D	3D Printer
+9.8%
+Correct! Nice job! You answered correctly.
+View the related definition: Impact Printer
